@@ -13,6 +13,6 @@ order deny,allow
 deny from all
 </Limit>
 AuthType Basic
-AuthName www.dso.dk
+AuthName archive.dso.dk
 AuthUserFile /home/d/s/ftp_dsodk/_vti_pvt/service.pwd
 AuthGroupFile /home/d/s/ftp_dsodk/_vti_pvt/service.grp
